@@ -1,0 +1,14 @@
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\Robot\bin\Debug\Robot.exe.config
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\Robot\bin\Debug\Robot.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\Robot\bin\Debug\Robot.pdb
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\Robot\obj\Debug\Robot.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\Robot\obj\Debug\Robot.pdb
+C:\Users\Admin\Desktop\Robot\bin\Debug\Robot.exe.config
+C:\Users\Admin\Desktop\Robot\bin\Debug\Robot.exe
+C:\Users\Admin\Desktop\Robot\bin\Debug\Robot.pdb
+C:\Users\Admin\Desktop\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Robot\obj\Debug\Robot.exe
+C:\Users\Admin\Desktop\Robot\obj\Debug\Robot.pdb
